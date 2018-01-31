@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 h1 {
   font-size: 50px;
   text-decoration-color: #5F9EA0;
+=======
+html, body {
+
+}
+h1 {
+  text-decoration: none;
+  color: #000000;
+  font-size: 32pt;
+  text-align: center;
+  line-height: 60px;
+>>>>>>> 0a2f688639cb390d195e8286897cce263afdf1b3
 }
